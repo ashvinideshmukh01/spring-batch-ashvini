@@ -1,0 +1,9 @@
+[
+	{
+		"inproductID":1,
+		"productName":"apple",
+		"prodDesc":"from json file",
+		"price":124.12,
+		"unit":10
+	}
+]

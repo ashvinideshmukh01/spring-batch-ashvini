@@ -1,0 +1,10 @@
+<products>
+	<product>
+		<InproductID>1</InproductID>
+		<productName>apple</productName>
+		<prodDesc>apple cell phone</prodDesc>
+		<price>500.00</price>
+		<unit>10</unit>
+	</product>
+	
+</products>

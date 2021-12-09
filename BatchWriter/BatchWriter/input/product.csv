@@ -1,0 +1,13 @@
+InproductID,productName,prodDesc,price,unit
+1,apple,apple cell phone,500.00,10
+2,apple,apple cell phone,500.0,10.0
+3,apple,apple cell phone,500.00,10
+4,apple,apple cell phone,500.00,10,error
+5,apple,apple cell phone,500.00,10
+6,apple,apple cell phone,500.00,10;error
+7,apple,apple cell phone,500.00,10
+8,apple,apple cell phone,500.00,10 , error
+9,apple,apple cell phone,500.00,10
+10,apple,apple cell phone,500.00,10
+11,apple,apple cell phone,500.00,10 , error
+12,apple,apple cell phone,500.00,10
